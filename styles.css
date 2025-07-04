@@ -290,3 +290,8 @@ align-items: center;
     text-align: left;
     color: #fff;
 }
+
+.project:hover .project__description {
+    opacity: 1;
+    transform: translateY(-50%);
+}
